@@ -1,4 +1,4 @@
 # Project Tin hoc tre 2018 in Da Nang
-- author: Nguyen Hoang Vu <br>
-- language: PHP,MYSQL,JS,CSS
-- award: First Prize Young Computerize Da Nang 2018 (Branch Software)
+- Author: Nguyen Hoang Vu <br>
+- Language: PHP,MYSQL,JS,CSS
+- Award: First Prize Young Information Technology Da Nang 2018 (Branch Software)
